@@ -1,0 +1,207 @@
+{
+    "status.MS_UV0101.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV0100.cursta": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV0100.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV9017.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV9014.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_ESDV0102.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV6130.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV6110.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV6120.flag.image": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV0101.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV0100.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV9017.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV9014.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_BM_MS100Z.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_BM_MS100.units": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_BM_MS100L.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_BM_MS100.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_TT0100.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_TT0100.units": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_PT0100.units": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_PT0100.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_ESDV0102.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV6130.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV6110.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "status.MS_UV6120.flag.msgtxt": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_BM_MS100E.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_FT0100.units": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_FT0100.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_DT0100.units": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_DT0100.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSLX.units": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSLX.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSLX.iengr.egumax": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSEX.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSEX.iengr.egumax": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSZX.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSZX.iengr.egumax": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "station.MS.description": {
+        "ObjectAssociations": [],
+        "IsTransitory": true,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSZX_TEST.iengr.egumax": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSLX_TEST.iengr.egumax": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    },
+    "analog.MS_LTMSEX_TEST.curval": {
+        "ObjectAssociations": [],
+        "IsTransitory": false,
+        "HasResponse": true
+    }
+}
